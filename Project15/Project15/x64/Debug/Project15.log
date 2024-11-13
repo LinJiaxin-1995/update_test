@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\linjiaxin03\source\repos\Project15\Project15\源.cpp(87,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\linjiaxin03\source\repos\Project15\Project15\源.cpp(87,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\linjiaxin03\source\repos\Project15\Project15\源.cpp(88,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\linjiaxin03\source\repos\Project15\Project15\源.cpp(88,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\linjiaxin03\source\repos\Project15\Project15\源.cpp(89,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\linjiaxin03\source\repos\Project15\Project15\源.cpp(89,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\linjiaxin03\source\repos\Project15\Project15\源.cpp(34): warning C4715: “file_write”: 不是所有的控件路径都返回值
+  Project15.vcxproj -> C:\Users\linjiaxin03\source\repos\Project15\x64\Debug\Project15.exe
